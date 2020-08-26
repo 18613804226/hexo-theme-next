@@ -58,3 +58,7 @@
   {%- endif %}
 </body>
 </html>
+<!-- 动态背景 -->
+<script type="text/javascript" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"></script>
+
+
